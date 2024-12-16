@@ -5,6 +5,8 @@ The fishing lines have also been swapped over to GT2 Belts for better quality an
 
 Original: https://reprap.org/wiki/Tantillus
 
+The PCB that is used on it is the one from Lhndo from his LH-Stinger: https://github.com/lhndo/LH-Stinger/tree/main/PCB/LHS%20Breakbeat
+
 Assembly Video:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/rofUXSk4k1Y/0.jpg)](https://www.youtube.com/watch?v=rofUXSk4k1Y "Tantillus Assembly")
