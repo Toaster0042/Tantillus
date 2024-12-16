@@ -5,4 +5,6 @@ The fishing lines have also been swapped over to GT2 Belts for better quality an
 
 Original: https://reprap.org/wiki/Tantillus
 
-Assembly video: https://www.youtube.com/watch?v=rofUXSk4k1Y
+Assembly Video:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/rofUXSk4k1Y/0.jpg)](https://www.youtube.com/watch?v=rofUXSk4k1Y "Tantillus Assembly")
