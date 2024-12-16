@@ -20,9 +20,9 @@ Assembly Video:
 
 <br>
 
--PCB for the breakout board by [Lhndo](https://github.com/lhndo/LH-Stinger/tree/main/PCB/LHS%20Breakbeat)
--Original Tantillus by [](https://reprap.org/wiki/Tantillus)
--VZ hextrudort by [the vzbot team](https://github.com/VzBoT3D/Vz-HextrudORT)
+-PCB for the breakout board by [Lhndo](https://github.com/lhndo/LH-Stinger/tree/main/PCB/LHS%20Breakbeat)<br>
+-Original Tantillus by [](https://reprap.org/wiki/Tantillus)<br>
+-VZ hextrudort by [the vzbot team](https://github.com/VzBoT3D/Vz-HextrudORT)<br>
 <br>
 
 
