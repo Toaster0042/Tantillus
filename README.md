@@ -9,6 +9,11 @@ Assembly Video:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/rofUXSk4k1Y/0.jpg)](https://www.youtube.com/watch?v=rofUXSk4k1Y "Tantillus Assembly")
 
 
+## BOM
+
+[Excel BOM](https://github.com/Toaster0042/Tantillus/blob/main/BOM.xlsx)<br>
+[Github BOM](BOM.md)<br>
+
 ## Contact  
 
 @Glizzynator. on discord
