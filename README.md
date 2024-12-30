@@ -1,7 +1,8 @@
 # Tantillus
 My remix of the tantillus, a cross gantry printer from 2012. 
 This version uses a frame printed in a single piece, a mosquito/NF Crazy and Vz Hextrudort on top to bring it to a more recent standard. 
-The fishing lines have also been swapped over to GT2 Belts for better quality and uses a 2:1 gear ratio on the stepper to the motion components.
+The fishing lines have also been swapped over to GT2 Belts for better quality and uses a 2:1 gear ratio on the stepper to the motion components. <br>
+The travel is about 108mm on X, 109mm on Y and 143mm on Z, printable volume is about 100x100x140mm.
 
 
 Assembly Video:
